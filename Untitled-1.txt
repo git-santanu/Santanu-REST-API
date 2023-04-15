@@ -1,0 +1,3 @@
+one to one--->one user has one PAN number
+one to many--->one user has many posts
+many to many--->one author can written many books
